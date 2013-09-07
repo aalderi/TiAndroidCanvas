@@ -1,6 +1,6 @@
 /*
  * Example app Android Canvas module
- * (c) WorldWise Learning 2013 - All rights reserved
+ * (c) WorldWise Learning 2013. MIT License.
  */
 
 

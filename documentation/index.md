@@ -32,6 +32,6 @@ View the [change log](changelog.html) for this module.
 Please direct all questions, feedback, and concerns to [modules@worldwiselearning.org](mailto:modules@worldwiselearning.org?subject=Android%20Canvas%20Module).
 
 ## License
-Copyright(c) 2013 by WorldWise Learning. All Rights Reserved. Please see the LICENSE file included in the distribution for further details.
+Copyright(c) 2013 by WorldWise Learning. MIT License. Please see the LICENSE file included in the distribution for further details.
 
 [Canvas.CanvasView]:canvasview.html

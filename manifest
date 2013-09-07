@@ -6,7 +6,7 @@ version: 1.0
 apiversion: 2
 description: Implementation of the Android canvas
 author: WorldWise Learning
-license: MIT
+license: MIT License
 copyright: Copyright (c) 2013 by WorldWise Learning
 
 

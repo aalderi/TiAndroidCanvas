@@ -6,6 +6,3 @@ product name: Android Canvas
 
 brief overview:
 Draw anything you like by using the Android canvas. Use really fast, low-level drawing. An indispensable module for Android developers.
-
-manual price: 13,49
-	Seat, Not applicable
