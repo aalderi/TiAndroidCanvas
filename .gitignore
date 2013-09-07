@@ -1,0 +1,9 @@
+tmp
+bin
+build
+later
+*.zip
+.apt_generated
+.project
+.DS_Store
+.settings
